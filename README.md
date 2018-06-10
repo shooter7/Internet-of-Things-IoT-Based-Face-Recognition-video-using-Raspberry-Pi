@@ -21,4 +21,10 @@ create user in mysql database
   password:ahmed
   privllige:adminstrator
   
-  
+ create folder with name "faces"
+ 
+ to start recognize:
+   $ python run.py
+   
+ to add face:
+   $ python addUser.py
